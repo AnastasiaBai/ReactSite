@@ -1,0 +1,25 @@
+.logo__callback{
+    width: 800px;
+    margin: 0 auto;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logo{display: flex;
+    align-items: center;
+   
+}
+.logo ul{
+  padding: 10px;
+}
+.logo a{
+    color:#009EFF;
+}
+.owner image{
+    float: left;
+}
+.bucket ul{
+    display: flex;
+    justify-content: space-around;
+}

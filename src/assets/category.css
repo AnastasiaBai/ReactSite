@@ -1,0 +1,18 @@
+.category{
+    display: flex;
+    flex-wrap: wrap;
+    width: 841px;
+    margin: 0 auto;
+}
+.category>li{
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+}
+.category>li span{
+    color: #ffff;
+    opacity: 40%;
+}
+.container{ width: 1200px;
+     background: #323941;
+}

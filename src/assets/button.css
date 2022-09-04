@@ -1,0 +1,22 @@
+.button button[type='submit']{
+ width: 229px;
+height: 48px;
+background: #009EFF;
+text-align: center;
+color: #FFFFFF;
+font-weight: 700;
+}
+.button button[type='button']{
+    width:157.18px;
+    height: 36px;
+   text-align: center;
+   color:  #323941;
+   border: 1px solid #999999;
+   background: #FFFFFF;
+   border-radius: 5px;
+   }
+.protect .button{
+    position: absolute;
+    bottom: -21px;
+    left: 24px;
+}   

@@ -1,0 +1,97 @@
+.main{
+    position: relative;
+    width: 841px;
+    margin: 0 auto;
+}
+.main p {
+    font-size: 35px;
+    font-weight: 700;
+    line-height:42.63px;
+    color: #323941;
+  
+}
+.main__pic{
+    right: -237px;
+    position: absolute;
+    top: -29px;
+}
+.main_text span{
+    font-size: 15px;
+    color:#6ACD68;
+    border: 2px solid #6ACD68;
+    padding: 3px;
+    margin-left: 5px;
+}
+.main h1{  
+    font-weight: 700;
+    font-size: 108px;
+    line-height: 94.28px;
+    color: #323941;
+}
+.button__block{
+    display: flex;
+}
+.button__block button{
+    margin: 4px;
+}
+.main .logo_distribution{
+    position: absolute;
+    bottom: 246px;
+    left: 320px;
+}
+.main .logo_distribution p{
+    font-weight: 400;
+    line-height: 15px;
+    font-size: 15px;
+    color:#999999;
+}
+.garant{
+    display: flex;
+    align-items: center;
+}
+.garant p {
+    font:400;
+    font-size: 18px;
+    color:#323941;
+}
+.garant a{
+    text-decoration: underline;
+    color: #999999;
+    margin-left: 5px;
+}
+.protect{   
+     margin-top: 20px;
+    height: 142px;
+    width: 488px;
+    border: 5px solid #009EFF;
+}
+
+.protect p:nth-child(1){
+    font-size: 26px;
+    text-decoration:line-through;
+    font-weight: 400;
+    padding-left: 20px;
+
+}
+.protect p:nth-child(2){
+    font-size: 35px;
+    font-weight: 700;
+    padding-left: 20px;
+    
+}
+.protect span{ 
+    width: 184px;
+    height: 26px;
+    background: #FFFF;
+    color: #009EFF;
+    font-size: 17px;
+    font-weight: 400;
+    position: absolute;
+    bottom: -11px;
+    right: 380px;
+    text-align: center;
+
+}
+.protect img{    position: absolute;
+    bottom: 10px;
+    right: 362px;}
